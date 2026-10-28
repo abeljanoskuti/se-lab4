@@ -1,0 +1,7 @@
+# T05: SINGLE – felváltva tüzel (másodlagos után újra az elsődleges jön)
+# Előfeltétel: Új hajó; az elsődlegesben 2 torpedó, a másodlagosban 1; egyik sem hibázik.
+GT4500,2,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

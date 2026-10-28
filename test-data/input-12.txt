@@ -1,0 +1,4 @@
+# T12: ALL – sikeres, ha legalább egy torpedót kilőtt (csak a másodlagos sikeres)
+# Előfeltétel: Új hajó; az elsődleges mindig hibázik, a másodlagos sosem.
+GT4500,1,1,1,0
+TORPEDO,ALL

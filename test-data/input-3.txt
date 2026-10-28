@@ -1,0 +1,6 @@
+# T03: SINGLE – csak egy tárból tüzel (egy torpedót)
+# Előfeltétel: Új hajó, mindkét tárban 1-1 torpedó, egyik sem hibázik.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# T14: ALL – ha az egyik tár üres, a másikból tüzel
+# Előfeltétel: Új hajó; az elsődleges üres, a másodlagosban 1 torpedó.
+GT4500,0,0,1,0
+TORPEDO,ALL

@@ -1,0 +1,4 @@
+# T06: SINGLE – ha a soron következő (elsődleges) tár üres, a másikból tüzel
+# Előfeltétel: Új hajó; az elsődleges üres, a másodlagosban 1 torpedó van.
+GT4500,0,0,1,0
+TORPEDO,SINGLE

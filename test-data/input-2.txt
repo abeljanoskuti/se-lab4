@@ -1,0 +1,4 @@
+# T02: SINGLE – első tüzeléskor az elsődleges tárból tüzel (ellenpróba)
+# Előfeltétel: Új hajó; az elsődleges mindig hibázik, a másodlagos sosem.
+GT4500,1,1,1,0
+TORPEDO,SINGLE

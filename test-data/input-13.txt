@@ -1,0 +1,4 @@
+# T13: ALL – sikertelen, ha egyik tárból sem sikerült tüzelni
+# Előfeltétel: Új hajó; mindkét tár mindig hibázik.
+GT4500,1,1,1,1
+TORPEDO,ALL
