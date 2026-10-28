@@ -1,0 +1,5 @@
+# T09: SINGLE – ha a tüzelt tár hibát jelez, a másikkal nem próbálkozik
+# Előfeltétel: Új hajó; az elsődleges mindig hibázik, a másodlagos sosem, mindkettőben van torpedó.
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,ALL

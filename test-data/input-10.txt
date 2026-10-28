@@ -1,0 +1,5 @@
+# T10: ALL – mindkét tárból tüzel
+# Előfeltétel: Új hajó, mindkét tárban 1-1 torpedó, egyik sem hibázik.
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

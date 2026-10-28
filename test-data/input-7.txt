@@ -1,0 +1,5 @@
+# T07: SINGLE – ha a soron következő (másodlagos) tár üres, a másikból tüzel
+# Előfeltétel: Új hajó; az elsődlegesben 2 torpedó, a másodlagos üres.
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

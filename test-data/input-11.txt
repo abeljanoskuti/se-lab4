@@ -1,0 +1,4 @@
+# T11: ALL – sikeres, ha legalább egy torpedót kilőtt (csak az elsődleges sikeres)
+# Előfeltétel: Új hajó; az elsődleges sosem hibázik, a másodlagos mindig.
+GT4500,1,0,1,1
+TORPEDO,ALL
